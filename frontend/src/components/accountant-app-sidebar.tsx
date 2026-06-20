@@ -53,10 +53,6 @@ const data = {
       title: "Cash Book",
       url: "/accountant/cash-book",
       icon: BookOpenIcon,
-      items: [
-        { title: "Transactions", url: "/accountant/cash-book" },
-        { title: "Add Transaction", url: "/accountant/cash-book/create" },
-      ],
     },
     {
       title: "Assets",

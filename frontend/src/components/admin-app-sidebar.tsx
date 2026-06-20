@@ -42,10 +42,6 @@ const data = {
       title: "Tasks",
       url: "/admin/tasks",
       icon: ListTodoIcon,
-      items: [
-        { title: "All Tasks", url: "/admin/tasks" },
-        { title: "Create Task", url: "/admin/tasks/create" },
-      ],
     },
     {
       title: "Teams",
@@ -61,10 +57,6 @@ const data = {
       title: "Cash Book",
       url: "/admin/cash-book",
       icon: BookOpenIcon,
-      items: [
-        { title: "Transactions", url: "/admin/cash-book" },
-        { title: "Add Transaction", url: "/admin/cash-book/create" },
-      ],
     },
     {
       title: "Assets Maintenances",
