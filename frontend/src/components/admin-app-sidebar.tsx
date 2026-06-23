@@ -95,8 +95,10 @@ export function AdminAppSidebar({
       variant="inset"
       collapsible="icon"
       className="bg-neutral-100"
+      
+    
     >
-      <SidebarHeader className="border-b">
+      <SidebarHeader className="border-b" >
         <SidebarMenu>
           <SidebarMenuItem>
             <SidebarMenuButton size="lg" asChild>

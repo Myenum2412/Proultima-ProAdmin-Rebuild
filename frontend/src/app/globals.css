@@ -128,3 +128,13 @@
     @apply font-sans;
   }
 }
+
+
+.bg-dash {
+  background-image: url("/bg-dash.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  
+}
